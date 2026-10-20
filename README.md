@@ -1,6 +1,6 @@
 # async-postgres-watcher
 
-[![tests](https://github.com/officialpycasbin/async-postgres-watcher/actions/workflows/release.yml/badge.svg)](https://github.com/officialpycasbin/async-postgres-watcher/actions)
+[![tests](https://github.com/apache/casbin-python-async-postgres-watcher/actions/workflows/ci.yml/badge.svg)](https://github.com/apache/casbin-python-async-postgres-watcher/actions/workflows/ci.yml)
 [![PyPI - Version](https://img.shields.io/pypi/v/casbin-async-postgres-watcher)](https://pypi.org/project/casbin-async-postgres-watcher/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin-async-postgres-watcher.svg)](https://pypi.org/project/casbin-async-postgres-watcher/)
 [![PyPI - Downloads](https://static.pepy.tech/badge/casbin-async-postgres-watcher)](https://pypi.org/project/casbin-async-postgres-watcher/)
